@@ -1,0 +1,16 @@
+PODS:
+  - LuckyIB (1.0.0)
+
+DEPENDENCIES:
+  - LuckyIB (from `../`)
+
+EXTERNAL SOURCES:
+  LuckyIB:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LuckyIB: 5700815745e163348f6249d941829f75d065e8d3
+
+PODFILE CHECKSUM: a90290ad299f617defcbbbfaec868fa3f01afca1
+
+COCOAPODS: 1.15.2

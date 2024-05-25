@@ -1,0 +1,22 @@
+{
+  "name": "LuckyIB",
+  "version": "1.0.0",
+  "summary": "A short description of LuckyIB.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/汤俊杰/LuckyIB",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "汤俊杰": "921969987@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/汤俊杰/LuckyIB.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "LuckyIB/Classes/**/*"
+}
