@@ -30,5 +30,17 @@ public class IBLabel: UILabel {
         }
     }
     
+    @IBInspectable var shadowOpacity: Float = 0 {
+        didSet {
+            layer.shadowOpacity = shadowOpacity
+        }
+    }
+    
+    @IBInspectable var shadowRadius: CGFloat = 3 {
+        didSet {
+            layer.shadowRadius = shadowRadius
+        }
+    }
+    
 }
 

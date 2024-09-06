@@ -29,4 +29,28 @@ public class IBTextField: UITextField {
         }
     }
     
+    
+    @IBInspectable var shadowColor: UIColor = .clear {
+        didSet {
+            layer.shadowColor = shadowColor.cgColor
+        }
+    }
+    
+    @IBInspectable var shadowOffset: CGSize = .zero {
+        didSet {
+            layer.shadowOffset = shadowOffset
+        }
+    }
+    
+    @IBInspectable var shadowOpacity: Float = 0 {
+        didSet {
+            layer.shadowOpacity = shadowOpacity
+        }
+    }
+    
+    @IBInspectable var shadowRadius: CGFloat = 3 {
+        didSet {
+            layer.shadowRadius = shadowRadius
+        }
+    }
 }

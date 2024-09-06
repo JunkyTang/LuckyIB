@@ -7,89 +7,89 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0A9CB3EBBA39D3D3CBCF9CAD6110CF2B /* LuckyIB-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DEF8E6392E15025A7EF511116AFE7844 /* LuckyIB-dummy.m */; };
-		1D700750F4FDA12D544AB6C664CA8FCE /* IBLoadable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74AA943B26C4026A0DAADB1A22B081A9 /* IBLoadable.swift */; };
-		340DE3879511F1CE97EFF6450EB0C517 /* IBLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D938F7C9E9E2848EEDC870CD0C335DF /* IBLabel.swift */; };
-		3B59F01D2C01BE56009D97CF /* IBImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B59F01C2C01BE56009D97CF /* IBImageView.swift */; };
-		3B59F01F2C01BEB6009D97CF /* IBTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B59F01E2C01BEB6009D97CF /* IBTextField.swift */; };
-		3B59F0212C01BEFC009D97CF /* IBTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B59F0202C01BEFC009D97CF /* IBTextView.swift */; };
+		0410F7B8270636C74C86E4C896BB5593 /* IBButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB69E6486F2E5E4711EC1D141FDE4512 /* IBButton.swift */; };
+		0B01AD83433A6A1E1F5A1323E9E90603 /* LuckyIB-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8308E2FAEC7D8CEF9007C0314FE7F087 /* LuckyIB-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1DC52C1A013477F8D57C116E7EED0059 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		3FD67519A93A57DD49A992219A22D1D1 /* Pods-LuckyIB_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F7B363310E4BB4092BE7D7A5D96C8A6 /* Pods-LuckyIB_Tests-dummy.m */; };
+		46BDEF7071C5AA1FA93B30148C54DA30 /* IBLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F2C6BA08A86C52BF1E2C7E98BBFB3DC /* IBLabel.swift */; };
 		54CE76BDC8CB4D20488A9468DE27202A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		567BF714897290A8AF7958200CBD6C60 /* Pods-LuckyIB_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 749B96303C152719F9706F5D018467D6 /* Pods-LuckyIB_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		600D9FB942E88DC64A423DD7E7F7D4D7 /* IBView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7611313C38D5AE62A94314A923333DE /* IBView.swift */; };
-		730B64A26CBBA1AE81E547F1184A2752 /* IBButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 827F2342682385375390DEEADC4BF5F4 /* IBButton.swift */; };
-		7B59AEEAFE3CB2B0BF19F8B41197E852 /* LuckyIB-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3FAC6C90D267140F1F8E9387DD885B53 /* LuckyIB-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		723EA353E4676CCC7B6DCE076BE9B905 /* IBView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABA417848A14ED4F32F627E1A5C13B33 /* IBView.swift */; };
+		9A5667EB5790DBEB8A96C7465BBB4985 /* IBTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92EED7C8EBDDD1C40A56C1D1EBC61486 /* IBTextView.swift */; };
 		B1B7288D520743F1E38890569A977DB4 /* Pods-LuckyIB_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FFD531E1CF7C3B9A757C752ABE10F0E /* Pods-LuckyIB_Example-dummy.m */; };
-		C5D35CE7CD9E0B6BE072D55C37313789 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		CDC88F7FEC4F3F947AE9519F1250F7DA /* IBImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A974590CD038D72F550967EA4D2F18D6 /* IBImageView.swift */; };
 		D0BDE68CA37264DED6BB55E4AEA855AF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		E7D2528E84538D823B5D52F4B7348574 /* LuckyIB-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BA34624196C54DCBC1189DBE9B571657 /* LuckyIB-dummy.m */; };
 		ED5B21239B09654D07BE7B84EC0257D8 /* Pods-LuckyIB_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 777F659A9953E0E46AF5F9BF68223008 /* Pods-LuckyIB_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F4F0453CE8E4546145FD66FBABB327E0 /* IBTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C72A41B8692BDCE33E2C605548189AE /* IBTextField.swift */; };
+		FB54259C707C7B292541A6E390AAA63C /* IBLoadable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88AA4E2C428DEF30EE6031FBAFBC7F18 /* IBLoadable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		5B370CE410895E24462EB2F780FC7219 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 98D12EFE5BF98D867D85C2D5F003AFB1;
-			remoteInfo = LuckyIB;
-		};
-		BC71633814B0DCA4037575857A7640CD /* PBXContainerItemProxy */ = {
+		37095F64BB5321869AC3022CB54190F7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = BA1C08EBC2CD16E454A174B518873388;
 			remoteInfo = "Pods-LuckyIB_Example";
 		};
+		491965742F653DF3B20A1A484580A66E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 98D12EFE5BF98D867D85C2D5F003AFB1;
+			remoteInfo = LuckyIB;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		05C05DF6D875ADC6D48E9ECB2F90EC80 /* Pods-LuckyIB_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LuckyIB_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		0A7F502555B92EE5E6B33E9C042C24F1 /* LuckyIB.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LuckyIB.release.xcconfig; sourceTree = "<group>"; };
 		0BC66B95675AD9225698400A5FFE4950 /* Pods-LuckyIB_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LuckyIB_Example-frameworks.sh"; sourceTree = "<group>"; };
 		0BF0391AEED113A541E40366D3580D68 /* Pods-LuckyIB_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-LuckyIB_Example"; path = Pods_LuckyIB_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1047861E798D818031B9D9CC78DD7AB5 /* Pods-LuckyIB_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-LuckyIB_Tests"; path = Pods_LuckyIB_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		1D3E5659A1EEDBA8E47306A80005EDE6 /* LuckyIB.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LuckyIB.release.xcconfig; sourceTree = "<group>"; };
 		1F0BA4FB4967C6ABDA0FCAD7853EC286 /* Pods-LuckyIB_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LuckyIB_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		1FFD531E1CF7C3B9A757C752ABE10F0E /* Pods-LuckyIB_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LuckyIB_Example-dummy.m"; sourceTree = "<group>"; };
-		24E18EFE7DA5707638E49BAAFF9418DA /* LuckyIB-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LuckyIB-prefix.pch"; sourceTree = "<group>"; };
+		2CCC58373BDF32B214531282AC4A52E3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		2FF6133B405530BCF03275272F0CEE95 /* Pods-LuckyIB_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LuckyIB_Example-Info.plist"; sourceTree = "<group>"; };
+		33C3D8C5B9CC1B7DE55340592FC70355 /* LuckyIB.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = LuckyIB.modulemap; sourceTree = "<group>"; };
 		358A58BCE9E2EAA75B8DEF352D5ABC63 /* Pods-LuckyIB_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LuckyIB_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		3B59F01C2C01BE56009D97CF /* IBImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = IBImageView.swift; path = LuckyIB/Classes/IBImageView.swift; sourceTree = "<group>"; };
-		3B59F01E2C01BEB6009D97CF /* IBTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = IBTextField.swift; path = LuckyIB/Classes/IBTextField.swift; sourceTree = "<group>"; };
-		3B59F0202C01BEFC009D97CF /* IBTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IBTextView.swift; sourceTree = "<group>"; };
-		3FAC6C90D267140F1F8E9387DD885B53 /* LuckyIB-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LuckyIB-umbrella.h"; sourceTree = "<group>"; };
-		4B6F52FDBB3F29BDA2DE6EB51E6AA771 /* LuckyIB.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = LuckyIB.modulemap; sourceTree = "<group>"; };
+		49EB0DD1AD969FC15E308E97A945751D /* LuckyIB-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LuckyIB-Info.plist"; sourceTree = "<group>"; };
 		4F7B363310E4BB4092BE7D7A5D96C8A6 /* Pods-LuckyIB_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LuckyIB_Tests-dummy.m"; sourceTree = "<group>"; };
+		65DCAC36EEC8EAD4829B80994B6BD2D2 /* LuckyIB.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LuckyIB.debug.xcconfig; sourceTree = "<group>"; };
+		6C8D9E859102A958A6D124937FF5C890 /* LuckyIB-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LuckyIB-prefix.pch"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		749B96303C152719F9706F5D018467D6 /* Pods-LuckyIB_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LuckyIB_Example-umbrella.h"; sourceTree = "<group>"; };
-		74AA943B26C4026A0DAADB1A22B081A9 /* IBLoadable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IBLoadable.swift; path = LuckyIB/Classes/IBLoadable.swift; sourceTree = "<group>"; };
 		777F659A9953E0E46AF5F9BF68223008 /* Pods-LuckyIB_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LuckyIB_Tests-umbrella.h"; sourceTree = "<group>"; };
 		77C59222720A6E644F0BDC7B287E4753 /* Pods-LuckyIB_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LuckyIB_Tests.modulemap"; sourceTree = "<group>"; };
-		8018ABA3CAD5268C7254C3D85FD6FBE8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		827F2342682385375390DEEADC4BF5F4 /* IBButton.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IBButton.swift; path = LuckyIB/Classes/IBButton.swift; sourceTree = "<group>"; };
+		8308E2FAEC7D8CEF9007C0314FE7F087 /* LuckyIB-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LuckyIB-umbrella.h"; sourceTree = "<group>"; };
+		88AA4E2C428DEF30EE6031FBAFBC7F18 /* IBLoadable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IBLoadable.swift; path = LuckyIB/Classes/IBLoadable.swift; sourceTree = "<group>"; };
 		8B27946201B641F2E44668A4298AAC23 /* Pods-LuckyIB_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LuckyIB_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		8D938F7C9E9E2848EEDC870CD0C335DF /* IBLabel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IBLabel.swift; path = LuckyIB/Classes/IBLabel.swift; sourceTree = "<group>"; };
 		92AA915DC0A4D35141C8B7C92EAA566E /* LuckyIB */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = LuckyIB; path = LuckyIB.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		92EED7C8EBDDD1C40A56C1D1EBC61486 /* IBTextView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IBTextView.swift; path = LuckyIB/Classes/IBTextView.swift; sourceTree = "<group>"; };
+		9944CC03D867073930DAD8914E90D2E2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		9C72A41B8692BDCE33E2C605548189AE /* IBTextField.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IBTextField.swift; path = LuckyIB/Classes/IBTextField.swift; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9DC25B95AF852E6C5C4A3FADB864913E /* Pods-LuckyIB_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LuckyIB_Example.modulemap"; sourceTree = "<group>"; };
+		9F2C6BA08A86C52BF1E2C7E98BBFB3DC /* IBLabel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IBLabel.swift; path = LuckyIB/Classes/IBLabel.swift; sourceTree = "<group>"; };
+		A1816C0268BF3D456611C35D42060970 /* LuckyIB.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = LuckyIB.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A974590CD038D72F550967EA4D2F18D6 /* IBImageView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IBImageView.swift; path = LuckyIB/Classes/IBImageView.swift; sourceTree = "<group>"; };
+		AB69E6486F2E5E4711EC1D141FDE4512 /* IBButton.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IBButton.swift; path = LuckyIB/Classes/IBButton.swift; sourceTree = "<group>"; };
+		ABA417848A14ED4F32F627E1A5C13B33 /* IBView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IBView.swift; path = LuckyIB/Classes/IBView.swift; sourceTree = "<group>"; };
+		BA34624196C54DCBC1189DBE9B571657 /* LuckyIB-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LuckyIB-dummy.m"; sourceTree = "<group>"; };
 		C043045CF2A10F9D460DE9858B0C867C /* Pods-LuckyIB_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LuckyIB_Example.release.xcconfig"; sourceTree = "<group>"; };
-		C2E26CB07FA36B6814EF2DC7CF035B27 /* LuckyIB.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LuckyIB.debug.xcconfig; sourceTree = "<group>"; };
 		C611E9DDEE890F41BAA5A29E67575B53 /* Pods-LuckyIB_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LuckyIB_Tests-Info.plist"; sourceTree = "<group>"; };
-		C7611313C38D5AE62A94314A923333DE /* IBView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IBView.swift; path = LuckyIB/Classes/IBView.swift; sourceTree = "<group>"; };
 		CA0964B8DA42C5B60C77261D6D007D02 /* Pods-LuckyIB_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LuckyIB_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		D5E225D1218C394D83B479F0A22C6484 /* LuckyIB-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LuckyIB-Info.plist"; sourceTree = "<group>"; };
 		D6BE9B0C562BE648E5542D085FA365FD /* Pods-LuckyIB_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LuckyIB_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		DEF8E6392E15025A7EF511116AFE7844 /* LuckyIB-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LuckyIB-dummy.m"; sourceTree = "<group>"; };
-		EAB41DD88BE7CD9FB08FB88F86D83260 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		F244E149FB29DACCC612A54183BBBC6A /* LuckyIB.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = LuckyIB.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		FDFB954A4C2C0CFD27D5326DBEBCE696 /* Pods-LuckyIB_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LuckyIB_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		520C624CA1A9E677A1CFE5AD2D47B672 /* Frameworks */ = {
+		0C8B6D67F257DE6C0EE9A5D44613D0EF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C5D35CE7CD9E0B6BE072D55C37313789 /* Foundation.framework in Frameworks */,
+				1DC52C1A013477F8D57C116E7EED0059 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -112,6 +112,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		11942D279328BF3C197FB4602A4BF747 /* LuckyIB */ = {
+			isa = PBXGroup;
+			children = (
+				AB69E6486F2E5E4711EC1D141FDE4512 /* IBButton.swift */,
+				A974590CD038D72F550967EA4D2F18D6 /* IBImageView.swift */,
+				9F2C6BA08A86C52BF1E2C7E98BBFB3DC /* IBLabel.swift */,
+				88AA4E2C428DEF30EE6031FBAFBC7F18 /* IBLoadable.swift */,
+				9C72A41B8692BDCE33E2C605548189AE /* IBTextField.swift */,
+				92EED7C8EBDDD1C40A56C1D1EBC61486 /* IBTextView.swift */,
+				ABA417848A14ED4F32F627E1A5C13B33 /* IBView.swift */,
+				75467BDCCEA0C363D70FE80E47245F6D /* Pod */,
+				82CB5EF25F290BCD27B65F283AB498D3 /* Support Files */,
+			);
+			name = LuckyIB;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		19BB86842A2883DF064925448385BAF7 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				11942D279328BF3C197FB4602A4BF747 /* LuckyIB */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
 		4860A425DFD5D059794503EEBFF5B8A6 /* Pods-LuckyIB_Example */ = {
 			isa = PBXGroup;
 			children = (
@@ -153,6 +178,16 @@
 			path = "Target Support Files/Pods-LuckyIB_Tests";
 			sourceTree = "<group>";
 		};
+		75467BDCCEA0C363D70FE80E47245F6D /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				2CCC58373BDF32B214531282AC4A52E3 /* LICENSE */,
+				A1816C0268BF3D456611C35D42060970 /* LuckyIB.podspec */,
+				9944CC03D867073930DAD8914E90D2E2 /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 		79005A1E65E02F51F649BAFB78AF3B37 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -162,51 +197,26 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		9CAC9319FE2B60BBF178E853E34A8777 /* Support Files */ = {
+		82CB5EF25F290BCD27B65F283AB498D3 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				4B6F52FDBB3F29BDA2DE6EB51E6AA771 /* LuckyIB.modulemap */,
-				DEF8E6392E15025A7EF511116AFE7844 /* LuckyIB-dummy.m */,
-				D5E225D1218C394D83B479F0A22C6484 /* LuckyIB-Info.plist */,
-				24E18EFE7DA5707638E49BAAFF9418DA /* LuckyIB-prefix.pch */,
-				3FAC6C90D267140F1F8E9387DD885B53 /* LuckyIB-umbrella.h */,
-				C2E26CB07FA36B6814EF2DC7CF035B27 /* LuckyIB.debug.xcconfig */,
-				1D3E5659A1EEDBA8E47306A80005EDE6 /* LuckyIB.release.xcconfig */,
+				33C3D8C5B9CC1B7DE55340592FC70355 /* LuckyIB.modulemap */,
+				BA34624196C54DCBC1189DBE9B571657 /* LuckyIB-dummy.m */,
+				49EB0DD1AD969FC15E308E97A945751D /* LuckyIB-Info.plist */,
+				6C8D9E859102A958A6D124937FF5C890 /* LuckyIB-prefix.pch */,
+				8308E2FAEC7D8CEF9007C0314FE7F087 /* LuckyIB-umbrella.h */,
+				65DCAC36EEC8EAD4829B80994B6BD2D2 /* LuckyIB.debug.xcconfig */,
+				0A7F502555B92EE5E6B33E9C042C24F1 /* LuckyIB.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/LuckyIB";
-			sourceTree = "<group>";
-		};
-		9D117521256EF3E75364CE4ED0C93816 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				CDB14E3F46FE984B18DC952DCA4F724E /* LuckyIB */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		CDB14E3F46FE984B18DC952DCA4F724E /* LuckyIB */ = {
-			isa = PBXGroup;
-			children = (
-				827F2342682385375390DEEADC4BF5F4 /* IBButton.swift */,
-				8D938F7C9E9E2848EEDC870CD0C335DF /* IBLabel.swift */,
-				3B59F01C2C01BE56009D97CF /* IBImageView.swift */,
-				3B59F0202C01BEFC009D97CF /* IBTextView.swift */,
-				3B59F01E2C01BEB6009D97CF /* IBTextField.swift */,
-				C7611313C38D5AE62A94314A923333DE /* IBView.swift */,
-				74AA943B26C4026A0DAADB1A22B081A9 /* IBLoadable.swift */,
-				D8A91C8F7DA82F911C5FCCAB20E3001E /* Pod */,
-				9CAC9319FE2B60BBF178E853E34A8777 /* Support Files */,
-			);
-			name = LuckyIB;
-			path = ../..;
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				9D117521256EF3E75364CE4ED0C93816 /* Development Pods */,
+				19BB86842A2883DF064925448385BAF7 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				D75539B420A8CAC0E80C36D8A9545E70 /* Products */,
 				79005A1E65E02F51F649BAFB78AF3B37 /* Targets Support Files */,
@@ -231,19 +241,17 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D8A91C8F7DA82F911C5FCCAB20E3001E /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				EAB41DD88BE7CD9FB08FB88F86D83260 /* LICENSE */,
-				F244E149FB29DACCC612A54183BBBC6A /* LuckyIB.podspec */,
-				8018ABA3CAD5268C7254C3D85FD6FBE8 /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		2CC0EEFC554BB85B1AD02ED8B2674463 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0B01AD83433A6A1E1F5A1323E9E90603 /* LuckyIB-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		58A1FC3734909A901D76FBF76FE0283E /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -260,25 +268,17 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E651730AC44B7F05FB8337AEE01DF302 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				7B59AEEAFE3CB2B0BF19F8B41197E852 /* LuckyIB-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
 		98D12EFE5BF98D867D85C2D5F003AFB1 /* LuckyIB */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 495E93507FA3741BD4296D21DF357F77 /* Build configuration list for PBXNativeTarget "LuckyIB" */;
+			buildConfigurationList = 563DB32C6BECD746D1C5F902850EBAEC /* Build configuration list for PBXNativeTarget "LuckyIB" */;
 			buildPhases = (
-				E651730AC44B7F05FB8337AEE01DF302 /* Headers */,
-				9A6A8B42942BE8C7952532D2C536BA6A /* Sources */,
-				520C624CA1A9E677A1CFE5AD2D47B672 /* Frameworks */,
-				4AA8F36EAC70FBDB354ACF84491CBC0E /* Resources */,
+				2CC0EEFC554BB85B1AD02ED8B2674463 /* Headers */,
+				1BB83A0D749B82C3F0274CBC99693B44 /* Sources */,
+				0C8B6D67F257DE6C0EE9A5D44613D0EF /* Frameworks */,
+				5ABB8978BF17D9F8C0CFE9F7B82FDDE3 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -301,7 +301,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				AF09755D4B18E86810F8810855D2EBF1 /* PBXTargetDependency */,
+				78A7CD61E63DC07D0BE9CBFBCC845D62 /* PBXTargetDependency */,
 			);
 			name = "Pods-LuckyIB_Example";
 			productName = Pods_LuckyIB_Example;
@@ -320,7 +320,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				185F8046087D0EDB0F13ECFC999908F9 /* PBXTargetDependency */,
+				C2437C11463D2D8FDCE57F8F95194889 /* PBXTargetDependency */,
 			);
 			name = "Pods-LuckyIB_Tests";
 			productName = Pods_LuckyIB_Tests;
@@ -364,7 +364,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4AA8F36EAC70FBDB354ACF84491CBC0E /* Resources */ = {
+		5ABB8978BF17D9F8C0CFE9F7B82FDDE3 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -381,26 +381,26 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		1BB83A0D749B82C3F0274CBC99693B44 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0410F7B8270636C74C86E4C896BB5593 /* IBButton.swift in Sources */,
+				CDC88F7FEC4F3F947AE9519F1250F7DA /* IBImageView.swift in Sources */,
+				46BDEF7071C5AA1FA93B30148C54DA30 /* IBLabel.swift in Sources */,
+				FB54259C707C7B292541A6E390AAA63C /* IBLoadable.swift in Sources */,
+				F4F0453CE8E4546145FD66FBABB327E0 /* IBTextField.swift in Sources */,
+				9A5667EB5790DBEB8A96C7465BBB4985 /* IBTextView.swift in Sources */,
+				723EA353E4676CCC7B6DCE076BE9B905 /* IBView.swift in Sources */,
+				E7D2528E84538D823B5D52F4B7348574 /* LuckyIB-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		97F9298DFCC67422E877CD051549E559 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				3FD67519A93A57DD49A992219A22D1D1 /* Pods-LuckyIB_Tests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		9A6A8B42942BE8C7952532D2C536BA6A /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				730B64A26CBBA1AE81E547F1184A2752 /* IBButton.swift in Sources */,
-				340DE3879511F1CE97EFF6450EB0C517 /* IBLabel.swift in Sources */,
-				600D9FB942E88DC64A423DD7E7F7D4D7 /* IBView.swift in Sources */,
-				3B59F01F2C01BEB6009D97CF /* IBTextField.swift in Sources */,
-				3B59F01D2C01BE56009D97CF /* IBImageView.swift in Sources */,
-				0A9CB3EBBA39D3D3CBCF9CAD6110CF2B /* LuckyIB-dummy.m in Sources */,
-				3B59F0212C01BEFC009D97CF /* IBTextView.swift in Sources */,
-				1D700750F4FDA12D544AB6C664CA8FCE /* IBLoadable.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -415,24 +415,56 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		185F8046087D0EDB0F13ECFC999908F9 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-LuckyIB_Example";
-			target = BA1C08EBC2CD16E454A174B518873388 /* Pods-LuckyIB_Example */;
-			targetProxy = BC71633814B0DCA4037575857A7640CD /* PBXContainerItemProxy */;
-		};
-		AF09755D4B18E86810F8810855D2EBF1 /* PBXTargetDependency */ = {
+		78A7CD61E63DC07D0BE9CBFBCC845D62 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = LuckyIB;
 			target = 98D12EFE5BF98D867D85C2D5F003AFB1 /* LuckyIB */;
-			targetProxy = 5B370CE410895E24462EB2F780FC7219 /* PBXContainerItemProxy */;
+			targetProxy = 491965742F653DF3B20A1A484580A66E /* PBXContainerItemProxy */;
+		};
+		C2437C11463D2D8FDCE57F8F95194889 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-LuckyIB_Example";
+			target = BA1C08EBC2CD16E454A174B518873388 /* Pods-LuckyIB_Example */;
+			targetProxy = 37095F64BB5321869AC3022CB54190F7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		432386D5ED7494DF0101D8275FF5D096 /* Release */ = {
+		14AC2CB582A332C6A35658367C4F6608 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1D3E5659A1EEDBA8E47306A80005EDE6 /* LuckyIB.release.xcconfig */;
+			baseConfigurationReference = 65DCAC36EEC8EAD4829B80994B6BD2D2 /* LuckyIB.debug.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/LuckyIB/LuckyIB-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/LuckyIB/LuckyIB-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/LuckyIB/LuckyIB.modulemap";
+				PRODUCT_MODULE_NAME = LuckyIB;
+				PRODUCT_NAME = LuckyIB;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		21B5F7D6B651132965518BE04B2223FF /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0A7F502555B92EE5E6B33E9C042C24F1 /* LuckyIB.release.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -462,38 +494,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
-		};
-		4922BCC2AFC10D482A690F0DACBC6719 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = C2E26CB07FA36B6814EF2DC7CF035B27 /* LuckyIB.debug.xcconfig */;
-			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/LuckyIB/LuckyIB-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/LuckyIB/LuckyIB-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/LuckyIB/LuckyIB.modulemap";
-				PRODUCT_MODULE_NAME = LuckyIB;
-				PRODUCT_NAME = LuckyIB;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
 		};
 		57A8F63C67908C79CC795A1EF6BC85AF /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -720,7 +720,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -772,11 +773,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		495E93507FA3741BD4296D21DF357F77 /* Build configuration list for PBXNativeTarget "LuckyIB" */ = {
+		563DB32C6BECD746D1C5F902850EBAEC /* Build configuration list for PBXNativeTarget "LuckyIB" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4922BCC2AFC10D482A690F0DACBC6719 /* Debug */,
-				432386D5ED7494DF0101D8275FF5D096 /* Release */,
+				14AC2CB582A332C6A35658367C4F6608 /* Debug */,
+				21B5F7D6B651132965518BE04B2223FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
