@@ -1,5 +1,5 @@
 PODS:
-  - LuckyIB (1.0.0)
+  - LuckyIB (1.1.0)
 
 DEPENDENCIES:
   - LuckyIB (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LuckyIB: f713ff4cada5a4b9fa3af150b5d077d4e055eb00
+  LuckyIB: 093da695fab60fd00f4b9b093084eaa2edbe1556
 
 PODFILE CHECKSUM: a90290ad299f617defcbbbfaec868fa3f01afca1
 
