@@ -10,6 +10,7 @@
 		0410F7B8270636C74C86E4C896BB5593 /* IBButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB69E6486F2E5E4711EC1D141FDE4512 /* IBButton.swift */; };
 		0B01AD83433A6A1E1F5A1323E9E90603 /* LuckyIB-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8308E2FAEC7D8CEF9007C0314FE7F087 /* LuckyIB-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1DC52C1A013477F8D57C116E7EED0059 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		3B47182A2CBA777200992286 /* IBStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B4718292CBA777200992286 /* IBStackView.swift */; };
 		3FD67519A93A57DD49A992219A22D1D1 /* Pods-LuckyIB_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F7B363310E4BB4092BE7D7A5D96C8A6 /* Pods-LuckyIB_Tests-dummy.m */; };
 		46BDEF7071C5AA1FA93B30148C54DA30 /* IBLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F2C6BA08A86C52BF1E2C7E98BBFB3DC /* IBLabel.swift */; };
 		54CE76BDC8CB4D20488A9468DE27202A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
@@ -50,10 +51,11 @@
 		1047861E798D818031B9D9CC78DD7AB5 /* Pods-LuckyIB_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-LuckyIB_Tests"; path = Pods_LuckyIB_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F0BA4FB4967C6ABDA0FCAD7853EC286 /* Pods-LuckyIB_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LuckyIB_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		1FFD531E1CF7C3B9A757C752ABE10F0E /* Pods-LuckyIB_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LuckyIB_Example-dummy.m"; sourceTree = "<group>"; };
-		2CCC58373BDF32B214531282AC4A52E3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		2CCC58373BDF32B214531282AC4A52E3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		2FF6133B405530BCF03275272F0CEE95 /* Pods-LuckyIB_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LuckyIB_Example-Info.plist"; sourceTree = "<group>"; };
 		33C3D8C5B9CC1B7DE55340592FC70355 /* LuckyIB.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = LuckyIB.modulemap; sourceTree = "<group>"; };
 		358A58BCE9E2EAA75B8DEF352D5ABC63 /* Pods-LuckyIB_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LuckyIB_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		3B4718292CBA777200992286 /* IBStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IBStackView.swift; sourceTree = "<group>"; };
 		49EB0DD1AD969FC15E308E97A945751D /* LuckyIB-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LuckyIB-Info.plist"; sourceTree = "<group>"; };
 		4F7B363310E4BB4092BE7D7A5D96C8A6 /* Pods-LuckyIB_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LuckyIB_Tests-dummy.m"; sourceTree = "<group>"; };
 		65DCAC36EEC8EAD4829B80994B6BD2D2 /* LuckyIB.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LuckyIB.debug.xcconfig; sourceTree = "<group>"; };
@@ -67,12 +69,12 @@
 		8B27946201B641F2E44668A4298AAC23 /* Pods-LuckyIB_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LuckyIB_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		92AA915DC0A4D35141C8B7C92EAA566E /* LuckyIB */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = LuckyIB; path = LuckyIB.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		92EED7C8EBDDD1C40A56C1D1EBC61486 /* IBTextView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IBTextView.swift; path = LuckyIB/Classes/IBTextView.swift; sourceTree = "<group>"; };
-		9944CC03D867073930DAD8914E90D2E2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		9944CC03D867073930DAD8914E90D2E2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9C72A41B8692BDCE33E2C605548189AE /* IBTextField.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IBTextField.swift; path = LuckyIB/Classes/IBTextField.swift; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9DC25B95AF852E6C5C4A3FADB864913E /* Pods-LuckyIB_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LuckyIB_Example.modulemap"; sourceTree = "<group>"; };
 		9F2C6BA08A86C52BF1E2C7E98BBFB3DC /* IBLabel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IBLabel.swift; path = LuckyIB/Classes/IBLabel.swift; sourceTree = "<group>"; };
-		A1816C0268BF3D456611C35D42060970 /* LuckyIB.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = LuckyIB.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A1816C0268BF3D456611C35D42060970 /* LuckyIB.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = LuckyIB.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A974590CD038D72F550967EA4D2F18D6 /* IBImageView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IBImageView.swift; path = LuckyIB/Classes/IBImageView.swift; sourceTree = "<group>"; };
 		AB69E6486F2E5E4711EC1D141FDE4512 /* IBButton.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IBButton.swift; path = LuckyIB/Classes/IBButton.swift; sourceTree = "<group>"; };
 		ABA417848A14ED4F32F627E1A5C13B33 /* IBView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IBView.swift; path = LuckyIB/Classes/IBView.swift; sourceTree = "<group>"; };
@@ -122,6 +124,7 @@
 				9C72A41B8692BDCE33E2C605548189AE /* IBTextField.swift */,
 				92EED7C8EBDDD1C40A56C1D1EBC61486 /* IBTextView.swift */,
 				ABA417848A14ED4F32F627E1A5C13B33 /* IBView.swift */,
+				3B4718292CBA777200992286 /* IBStackView.swift */,
 				75467BDCCEA0C363D70FE80E47245F6D /* Pod */,
 				82CB5EF25F290BCD27B65F283AB498D3 /* Support Files */,
 			);
@@ -391,6 +394,7 @@
 				FB54259C707C7B292541A6E390AAA63C /* IBLoadable.swift in Sources */,
 				F4F0453CE8E4546145FD66FBABB327E0 /* IBTextField.swift in Sources */,
 				9A5667EB5790DBEB8A96C7465BBB4985 /* IBTextView.swift in Sources */,
+				3B47182A2CBA777200992286 /* IBStackView.swift in Sources */,
 				723EA353E4676CCC7B6DCE076BE9B905 /* IBView.swift in Sources */,
 				E7D2528E84538D823B5D52F4B7348574 /* LuckyIB-dummy.m in Sources */,
 			);
@@ -720,8 +724,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
